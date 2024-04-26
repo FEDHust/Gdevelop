@@ -1,0 +1,9 @@
+YÊU CẦU:
+
+1. Thiết kế scene Intro
+2. Nhân vật có thể di chuyển theo các nút mũi tên ←↑↓→
+3. Có chức năng tính điểm và hiện điểm. Cộng 1 điểm khi Character ăn 1 Point
+4. Khi đủ 10 điểm, hiện thông báo thắng
+5. Có chức năng tính mạng và hiện số mạng. Khi Character chạm Wall hoặc DeadZone, bị trừ 1 mạng
+6. Khi mạng về 0, hiện thông báo thua
+7. Bảng thông báo thắng và thua đều có nút chơi lại
